@@ -46,13 +46,12 @@ Deploy the application to a hosting service to make it publicly accessible. Foll
 ## Installation & Setup
 
 ### Clone the Repository
-
-    ````bash
+    ```bash
     git clone https://github.com/hzratali/RapidQuest-Task.git
     ```
 
 
-**2**. **Frontend Setup:**
+### Frontend Setup:
 
 - Navigate to the frontend directory:
     ```bash
@@ -69,7 +68,7 @@ Deploy the application to a hosting service to make it publicly accessible. Foll
     npm run dev
     ```
 
-**3**. **Backend Setup:**
+### Backend Setup:
 
 - Navigate to the backend directory:
     ```bash
