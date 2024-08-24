@@ -47,8 +47,9 @@ Deploy the application to a hosting service to make it publicly accessible. Foll
 
 ### Clone the Repository
 
-````bash
-git clone https://github.com/hzratali/RapidQuest-Task.git
+    ````bash
+    git clone https://github.com/hzratali/RapidQuest-Task.git
+    ```
 
 
 **2**. **Frontend Setup:**
@@ -90,8 +91,3 @@ git clone https://github.com/hzratali/RapidQuest-Task.git
     ```bash
     npm start
     ```
-
-
-
-
-````
