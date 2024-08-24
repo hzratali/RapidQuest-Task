@@ -46,9 +46,8 @@ Deploy the application to a hosting service to make it publicly accessible. Foll
 ## Installation & Setup
 
 ### Clone the Repository
-    ```bash
+
     git clone https://github.com/hzratali/RapidQuest-Task.git
-    ```
 
 
 ### Frontend Setup:
